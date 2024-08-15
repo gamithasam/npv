@@ -45,7 +45,7 @@ To run the program:
 
 ## Background
 
-I developed this program during my free time while studying the module **Project Management for Computer Science** at **NIBM**. This project was inspired by the need to calculate NPV for investment evaluations. The markdown table output makes it easy to integrate the results into platforms like Notion for note-taking.
+I developed this program to practice my Swift skills as a beginner while studying the module **Project Management for Computer Science** at NIBM. This project was inspired by the need to calculate NPV for investment evaluations. The markdown table output makes it easy to integrate the results into platforms like Notion for note-taking.
 
 ## License
 
